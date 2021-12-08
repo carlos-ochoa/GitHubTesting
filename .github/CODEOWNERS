@@ -1,0 +1,8 @@
+# This is a file with the code owners for different branches
+
+# These owners will be default for every change in the repo
+*   @carlos-ochoa
+
+# When a .py file is modified a notification is sent to these owners
+*.py    @carlos-ochoa 
+

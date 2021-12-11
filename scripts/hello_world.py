@@ -10,6 +10,6 @@ for i in range(100):
 
 # This is a comment
 
-print("This is a new %d" % "value")
+print("This is a new %d" % 2)
 
 lskd = 1

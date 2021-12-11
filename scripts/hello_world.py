@@ -1,7 +1,10 @@
 
-# This script prints Hello World!
+"""
+This script prints Hello World!
+""" 
 print("Hello World!")
-print("Son of a bitch! >:)")
 print("Apple Pie :3")
 
+for i in range(100):
+    print(i)
 
